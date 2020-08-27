@@ -8,8 +8,8 @@ Create a directory for backups. Here we will use as an example `d:\wsl\backups`.
 
 1. In Windows search, type 'Task Scheduler'.
 2. In the actions section, click on 'Create basic task'.
-3. Give your task a name. Here I will call 'Ubuntu Backup'
-4. On triggers, choose when your job should runs. I recommend that you run, at least, once a week
+3. Give your task a name. Here I will call 'Ubuntu Backup'.
+4. On triggers, choose when your job should runs. I recommend that task run, at least, once a week.
 5. In actions, select 'Start a program' > Look for the file backup.sh (in our example, it is in `D:\wsl\backups\backup.sh`).
     - In the optional fields, fill in "Start at" in the directory to save the backups. In the example, it will be the same folder as the file `D:\wsl\backups\`
     - Fill in 'Add arguments' with the name of the distribution you want to back up. For example, `Ubuntu-18.04`.
