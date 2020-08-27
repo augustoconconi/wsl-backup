@@ -17,9 +17,9 @@ Create a directory for backups. Here we will use as an example `d:\wsl\backups`.
 
 ## To test
 
-In the terminal, open the directory where the file is located and run the file `.\backup.sh Ubuntu-18.04`
+In the Terminal, open the directory where the file is located and run the file `.\backup.sh Ubuntu-18.04`
 
-In the task scheduler, click on the task and click on 'Run'
+In the Task Scheduler, select the task and click on 'Run'
 
 
 ## Português
@@ -40,6 +40,6 @@ Crie um diretório para backups. Aqui usaremos como exemplo `d:\wsl\backups`. Na
 
 ### Para testar
 
-No terminal, abra o diretório em que está o arquivo e execute o arquivo `.\backup.sh Ubuntu-18.04`
+No Terminal, abra o diretório em que está o arquivo e execute o arquivo `.\backup.sh Ubuntu-18.04`
 
-No agendador de tarefas, seleciona a tarefa e clique em 'Executar'
+No Agendador de Tarefas, selecione a tarefa e clique em 'Executar'
